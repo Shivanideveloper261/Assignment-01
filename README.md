@@ -15,7 +15,7 @@
 - CSS3
 
 ## Live Demo
-Paste your deployed link here
+https://shivanideveloper261.github.io/Assignment-01/
 
 ## GitHub Repository
-Paste your GitHub repository link here
+https://github.com/Shivanideveloper261/Assignment-01
